@@ -1,0 +1,5 @@
+Postman 11.1.0
+Ubuntu (WSL) 2204.3.49.0
+Docker Desktop 4.28.0
+Visual Studio Code 1.89.1
+Laragon 6.0.0
